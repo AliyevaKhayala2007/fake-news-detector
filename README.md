@@ -129,6 +129,6 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE) — feel free to use and modify it.
 ## 👤 Author
-Khayala Aliyeva - I am a data analytics/science student at Baku Engineering University & INHA University. I am also studying at datacras on DevOps & MLOps & Data Engineering & Platform Engineering|Data Reporting Analyst intern| 🔗 GitHub Repository
+Khayala Aliyeva - I am a data analytics/science student at Baku Engineering University & INHA University. I am also studying at datacras on DevOps & MLOps & Data Engineering & Platform Engineering|Data Reporting Analyst intern
 Data Reporting Analyst Intern | ICT Student, Baku Engineering University
 🔗 [GitHub Repository](https://github.com/data96-pixel/fake-news-detector)
